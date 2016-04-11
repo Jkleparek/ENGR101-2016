@@ -1,1 +1,1 @@
-I changed from "%c" to "%d" so it would print a number rather than a character (like it said to do on the labscript)
+This code is just a simple print out.  It is just saying to print out the number 100.
